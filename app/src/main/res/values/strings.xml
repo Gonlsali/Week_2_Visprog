@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week_2</string>
+    <string name="title_activity_quadran">QuadranActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
